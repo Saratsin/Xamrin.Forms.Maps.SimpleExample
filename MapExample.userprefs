@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Droid/MapExample.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapExample/MapExample.cs">
+    <Files>
+      <File FileName="MapExample/MapExample.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MapExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2E92C643-E2BA-47F6-9668-5159B67F6B56" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MapExample.Droid PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
